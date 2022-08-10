@@ -1,0 +1,6 @@
+com/lolucode/fraud/FraudCheckHistory.class
+com/lolucode/fraud/FraudCheckHistoryRepository.class
+com/lolucode/fraud/FraudCheckController.class
+com/lolucode/fraud/FraudCheckService.class
+com/lolucode/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/lolucode/fraud/FraudApplication.class

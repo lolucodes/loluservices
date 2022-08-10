@@ -1,0 +1,8 @@
+com/lolucode/customer/CustomerConfig.class
+com/lolucode/customer/CustomerApplication.class
+com/lolucode/customer/CustomerRepository.class
+com/lolucode/customer/CustomerRegistrationRequest.class
+com/lolucode/customer/Customer$CustomerBuilder.class
+com/lolucode/customer/Customer.class
+com/lolucode/customer/CustomerController.class
+com/lolucode/customer/CustomerService.class

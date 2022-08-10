@@ -1,0 +1,4 @@
+com/lolucode/clients/notification/NotificationRequest.class
+com/lolucode/clients/fraud/FraudClient.class
+com/lolucode/clients/notification/NotificationClient.class
+com/lolucode/clients/fraud/FraudCheckResponse.class

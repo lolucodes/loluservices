@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6653ff5d-da7f-4fde-b124-b5b969987393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/amqp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amqp/src/test/java/com/lolucode/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amqp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amqp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clients/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/test/java/com/lolucode/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/customers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/lolucode/notification/NotificationService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +83,7 @@
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "/Users/lolucode/Desktop/dev/loluservices/notification/src/main",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -212,7 +199,7 @@
       <updated>1660125986165</updated>
       <workItem from="1660125989141" duration="342000" />
       <workItem from="1660126348923" duration="39000" />
-      <workItem from="1660126441662" duration="27983000" />
+      <workItem from="1660126441662" duration="31454000" />
     </task>
     <servers />
   </component>
@@ -237,11 +224,6 @@
           <url>file://$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/NotificationController.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/notification/src/main/java/com/lolucode/notification/rabbitmq/NotificationConsumer.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

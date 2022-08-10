@@ -1,0 +1,8 @@
+com/lolucode/notification/NotificationConfig.class
+com/lolucode/notification/NotificationApplication.class
+com/lolucode/notification/NotificationController.class
+com/lolucode/notification/Notification.class
+com/lolucode/notification/Notification$NotificationBuilder.class
+com/lolucode/notification/NotificationRepository.class
+com/lolucode/notification/NotificationService.class
+com/lolucode/notification/rabbitmq/NotificationConsumer.class
