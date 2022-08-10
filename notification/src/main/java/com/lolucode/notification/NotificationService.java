@@ -1,5 +1,6 @@
 package com.lolucode.notification;
 
+import com.lolucode.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

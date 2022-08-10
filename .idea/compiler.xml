@@ -12,10 +12,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="notification" />
         <module name="apigw" />
-        <module name="customers" />
         <module name="clients" />
-        <module name="eureka-server" />
         <module name="fraud" />
+        <module name="amqp" />
+        <module name="customers" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
