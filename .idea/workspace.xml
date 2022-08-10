@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6653ff5d-da7f-4fde-b124-b5b969987393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notification/src/test/java/com/lolucode/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/lolucode/clients/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/lolucode/clients/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customers/src/main/java/com/lolucode/customer/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <recent name="com.lolucode.customer" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.NotificationApplication">
+  <component name="RunManager" selected="Spring Boot.FraudApplication">
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="ACTIVE_PROFILES" />
       <module name="customers" />
@@ -162,10 +163,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.FraudApplication" />
         <item itemvalue="Spring Boot.CustomerApplication" />
         <item itemvalue="Spring Boot.NotificationApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.FraudApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,7 @@
       <updated>1660125986165</updated>
       <workItem from="1660125989141" duration="342000" />
       <workItem from="1660126348923" duration="39000" />
-      <workItem from="1660126441662" duration="16953000" />
+      <workItem from="1660126441662" duration="18805000" />
     </task>
     <servers />
   </component>
