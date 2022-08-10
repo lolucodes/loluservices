@@ -1,4 +1,4 @@
-package com.lolucode.customer;
+package com.lolucode.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 
