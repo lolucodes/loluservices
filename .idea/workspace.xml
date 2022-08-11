@@ -6,15 +6,43 @@
   <component name="ChangeListManager">
     <list default="true" id="6653ff5d-da7f-4fde-b124-b5b969987393" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amqp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amqp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amqp/target/amqp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/amqp/target/amqp-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amqp/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/amqp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amqp/target/surefire-reports/TEST-com.lolucode.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amqp/target/surefire-reports/TEST-com.lolucode.AppTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apigw/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clients/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/src/test/java/com/lolucode/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/apigw-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/apigw-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/apigw-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/apigw-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/surefire-reports/TEST-com.lolucode.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/surefire-reports/TEST-com.lolucode.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/clients-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/clients-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/classes/com/lolucode/customer/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/target/customers-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/customers-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/target/customers-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/customers-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customers/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.lolucode.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.lolucode.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.lolucode.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.lolucode.AppTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fraud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/fraud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/fraud-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/fraud-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/fraud-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/surefire-reports/TEST-com.lolucode.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/surefire-reports/TEST-com.lolucode.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/surefire-reports/com.lolucode.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/surefire-reports/com.lolucode.AppTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/notification-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/notification-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/notification-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/notification-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/surefire-reports/TEST-com.lolucode.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/surefire-reports/TEST-com.lolucode.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/surefire-reports/com.lolucode.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/surefire-reports/com.lolucode.AppTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +87,11 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="build-docker-image" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="2D9zFPKPnVPaf566sUKOYiL1Y2M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -82,7 +115,7 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/lolucode/Desktop/dev/loluservices/notification/src/main",
+    "last_opened_file_path": "/Users/lolucode/Desktop/dev/loluservices/fraud/src/main/resources",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -98,7 +131,11 @@
       <recent name="com.lolucode.customer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/notification/src/main" />
+      <recent name="$PROJECT_DIR$/fraud/src/main/resources" />
+      <recent name="$PROJECT_DIR$/customers/src/main/resources" />
+      <recent name="$PROJECT_DIR$/notification/src/main/resources" />
+      <recent name="$PROJECT_DIR$/eureka-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/apigw/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lolucode.clients.fraud" />
@@ -199,7 +236,7 @@
       <updated>1660125986165</updated>
       <workItem from="1660125989141" duration="342000" />
       <workItem from="1660126348923" duration="39000" />
-      <workItem from="1660126441662" duration="31454000" />
+      <workItem from="1660126441662" duration="41709000" />
     </task>
     <servers />
   </component>
